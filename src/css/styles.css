@@ -1,0 +1,79 @@
+html {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+header h2 {
+    font-weight: bold;
+}
+
+header div {
+    background-color: #347C98;
+    text-align: center;
+    color: white;
+    padding: 1rem 2rem 1rem 2rem;
+    font-size: 40px;
+    margin: 0 4rem 0 4rem;
+}
+
+nav li {
+    display: inline;
+}
+
+nav a {
+    color: white;
+    font-size: 15px;
+    margin-right: 2rem;
+}
+
+.navbar {
+    background-color: #347C98;
+    text-align: center;
+    color: white;
+    padding: 5px 2rem 5px 2rem;
+    margin: 1rem 4rem 0 4rem;
+}
+
+main {
+    padding-left: 4rem;
+}
+
+body {
+    font-size: 15px;
+}
+
+.Willkommen h3 {
+    color: #347C98;
+    font-size: 130%;
+}
+
+.Gebrauchtwagen {
+    margin-top: 1rem;
+}
+
+.Dienstleistungen {
+    margin-top: 2rem;
+}
+
+footer {
+    margin: 2rem 4rem 0 4rem;
+    padding: 2px 2px 2px 2px;
+    background-color: #347C98;
+    text-align: center;
+    color: white;
+}
+
+label {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+input {
+    margin-bottom: 15px;
+}
+
+#Ort {
+    margin-bottom: 15px;
+}
+
+#Abschicken {
+    margin-top: 10px;
+}
