@@ -1,4 +1,4 @@
-# TOPcar AG - Beispiel Test
+# TOPcar AG - Exam preparation
 This website was created as part of an **exam preparation** in *45* minutes.
 Using an example page, we were asked to recreate it as fast as possible.
 Down below, you can see the original by Karin Steiner.
